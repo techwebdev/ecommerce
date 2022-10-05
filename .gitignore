@@ -4,3 +4,5 @@ db.sqlite3
 ecommerce/__pycache__
 store/__pycache__
 store/migrations
+env
+.env
